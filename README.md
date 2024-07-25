@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Naeun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
@@ -11,7 +11,7 @@ I received my M.S. from the Department of Statistics at Sookmyung Women's Univer
 📝 M.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2021.09-2023.08. <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspThesis : Evaluation of prediction model of interval-censored failure time data with competing risk. <br>
 📝 B.S. Dept of Mathematics, Duksung Women University, Seoul, Korea, 2014-2020. <br>
-</div>
+<!--</div>-->
 
 <!--<br> <br> 
 
