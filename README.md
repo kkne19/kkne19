@@ -3,14 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Naeun's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-<h2> Introduction </h2>
-👋 I am Naeun Kim. I am currently a researcher in Division of Cancer Prevention, National Cancer Control Institute, National Cancer Center. 
+<h2> 👋 Introduction </h2>
+I am Naeun Kim. I am currently a researcher in Division of Cancer Prevention, National Cancer Control Institute, National Cancer Center. 
 I received my M.S. from the Department of Statistics at Sookmyung Women's University in August 2023, and I received my Bachelor's degree from the Department of Mathematics at Duksung Women's University in 2020.<br> 
 <br> <br>
-<h2> Education </h2>
-📝 M.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2021.09-2023.08. <br>
+<h2>📝 Education </h2>
+▪ M.S. Dept of Statistics, Sookmyung Women University, Seoul, Korea, 2021.09-2023.08. <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspThesis : Evaluation of prediction model of interval-censored failure time data with competing risk. <br>
-📝 B.S. Dept of Mathematics, Duksung Women University, Seoul, Korea, 2014-2020. <br>
+▪ B.S. Dept of Mathematics, Duksung Women University, Seoul, Korea, 2014-2020. <br>
 <!--</div>-->
 
 <!--<br> <br> 
